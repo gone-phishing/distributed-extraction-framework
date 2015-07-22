@@ -6,7 +6,7 @@ This is the distributed version of the [DBpedia Information Extraction Framework
 This is currently a work-in-progress, and the instructions are mostly intended for developers.
 
 ## Requirements
-* Java 7
+* Java 1.7
 * Maven 3
 * Apache Spark 0.9.1 built with Apache Hadoop 2.2.0
 
